@@ -11,6 +11,12 @@ table {
 th, td {
     border: 3px solid brown;
     padding: 8px;
-    
+
+
+}
+
+th  {
+    background-color: antiquewhite;
+
 
 }
